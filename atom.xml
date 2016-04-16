@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Neal&#39;s Notes</title>
+  <subtitle>遇见更好的自己！</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://yoursite.com/"/>
+  <updated>2016-04-16T12:08:35.000Z</updated>
+  <id>http://yoursite.com/</id>
+  
+  <author>
+    <name>广寒紫逸</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>哪有没时间这回事</title>
+    <link href="http://yoursite.com/2016/04/16/%E5%93%AA%E6%9C%89%E6%B2%A1%E6%97%B6%E9%97%B4%E8%BF%99%E5%9B%9E%E4%BA%8B/"/>
+    <id>http://yoursite.com/2016/04/16/哪有没时间这回事/</id>
+    <published>2016-04-16T11:24:10.000Z</published>
+    <updated>2016-04-16T12:08:35.000Z</updated>
+    
+    <content type="html">&lt;p&gt;一直对时间管理有所关注，利用上下班地铁上时间读完了《哪有没时间这回事》，现在来818这本书——碎片化时代的正确打开方式。&lt;/p&gt;
+&lt;h5 id=&quot;导语：碎片化时代的碎碎念&quot;&gt;&lt;a href=&quot;#导语：碎片化时代的碎碎念&quot; class=&quot;headerlink&quot; title=&quot;导语：碎片化时代的碎碎念&quot;&gt;&lt;/a&gt;导语：碎片化时代的碎碎念&lt;/h5&gt;&lt;blockquote&gt;
+&lt;p&gt;很多事情不得不做；&lt;br&gt;很多事情想做但从未去做；&lt;br&gt;很多事情做了但坚持不下来；&lt;br&gt;总感觉自己很忙碌，但想不起来到底干了什么；&lt;br&gt;大量的时间被他人占用，剩下的时间被自己浪费；&lt;br&gt;早上起不来，晚上不想睡，缺乏锻炼，没空学习，做事效率低，生活不规律；&lt;br&gt;一堆臭毛病想改改不掉，别人身上的好习惯想学做不到；  &lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;a id=&quot;more&quot;&gt;&lt;/a&gt; 
+&lt;pre&gt;&lt;code&gt;正确的打开方式：“三阶技能”，“三个清单”。
+&lt;/code&gt;&lt;/pre&gt;&lt;ul&gt;
+&lt;li&gt;初级技能：需要变换全新视角，重新感受整理被揉碎的时间，尽可能把被碎片占据的－ 时间找回来。 （时间段清单） &lt;/li&gt;
+&lt;li&gt;进阶技能：需要用争取到到时间丰富自己到技能，建立更广泛到人脉。同时，建立一套良性运转的任务处理系统，高效做事。（碎片清单和每日任务清单）  &lt;/li&gt;
+&lt;li&gt;高级技能：需要把技能植入体内，成为自己的习惯，用全新的自己应对未来。（实现以上的建设性方法；练习正确的步骤而不是结果）  &lt;/li&gt;
+&lt;/ul&gt;
+&lt;pre&gt;&lt;code&gt;先写个例子看看是否你需要继续往下读：（感受以下三组标题的区别）
+“让1天变28个小时”            “让1天变28个小时的初级技能”
+“不用专注也能完成80%任务”     “不用专注也能完成80%任务的进阶技能”
+“让高效毫不费力”             “让高效毫不费力的高级技能”
+&lt;/code&gt;&lt;/pre&gt;</content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;一直对时间管理有所关注，利用上下班地铁上时间读完了《哪有没时间这回事》，现在来818这本书——碎片化时代的正确打开方式。&lt;/p&gt;
+&lt;h5 id=&quot;导语：碎片化时代的碎碎念&quot;&gt;&lt;a href=&quot;#导语：碎片化时代的碎碎念&quot; class=&quot;headerlink&quot; title=&quot;导语：碎片化时代的碎碎念&quot;&gt;&lt;/a&gt;导语：碎片化时代的碎碎念&lt;/h5&gt;&lt;blockquote&gt;
+&lt;p&gt;很多事情不得不做；&lt;br&gt;很多事情想做但从未去做；&lt;br&gt;很多事情做了但坚持不下来；&lt;br&gt;总感觉自己很忙碌，但想不起来到底干了什么；&lt;br&gt;大量的时间被他人占用，剩下的时间被自己浪费；&lt;br&gt;早上起不来，晚上不想睡，缺乏锻炼，没空学习，做事效率低，生活不规律；&lt;br&gt;一堆臭毛病想改改不掉，别人身上的好习惯想学做不到；  &lt;/p&gt;
+&lt;/blockquote&gt;
+    
+    </summary>
+    
+      <category term="Grow" scheme="http://yoursite.com/categories/Grow/"/>
+    
+    
+      <category term="GTD" scheme="http://yoursite.com/tags/GTD/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://yoursite.com/2016/04/13/hello-world/"/>
+    <id>http://yoursite.com/2016/04/13/hello-world/</id>
+    <published>2016-04-13T15:49:42.000Z</published>
+    <updated>2016-04-16T12:09:45.000Z</updated>
+    
+    <content type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;documentation&lt;/a&gt; for more info. If you get any problems when using Hexo, you can find the answer in &lt;a href=&quot;https://hexo.io/docs/troubleshooting.html&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;troubleshooting&lt;/a&gt; or you can ask me on &lt;a href=&quot;https://github.com/hexojs/hexo/issues&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;GitHub&lt;/a&gt;.&lt;/p&gt;
+&lt;a id=&quot;more&quot;&gt;&lt;/a&gt;
+&lt;h2 id=&quot;Quick-Start&quot;&gt;&lt;a href=&quot;#Quick-Start&quot; class=&quot;headerlink&quot; title=&quot;Quick Start&quot;&gt;&lt;/a&gt;Quick Start&lt;/h2&gt;&lt;h3 id=&quot;Create-a-new-post&quot;&gt;&lt;a href=&quot;#Create-a-new-post&quot; class=&quot;headerlink&quot; title=&quot;Create a new post&quot;&gt;&lt;/a&gt;Create a new post&lt;/h3&gt;&lt;figure class=&quot;highlight bash&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;$ hexo new &lt;span class=&quot;string&quot;&gt;&quot;My New Post&quot;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;p&gt;More info: &lt;a href=&quot;https://hexo.io/docs/writing.html&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Writing&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&quot;Run-server&quot;&gt;&lt;a href=&quot;#Run-server&quot; class=&quot;headerlink&quot; title=&quot;Run server&quot;&gt;&lt;/a&gt;Run server&lt;/h3&gt;&lt;figure class=&quot;highlight bash&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;$ hexo server&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;p&gt;More info: &lt;a href=&quot;https://hexo.io/docs/server.html&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Server&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&quot;Generate-static-files&quot;&gt;&lt;a href=&quot;#Generate-static-files&quot; class=&quot;headerlink&quot; title=&quot;Generate static files&quot;&gt;&lt;/a&gt;Generate static files&lt;/h3&gt;&lt;figure class=&quot;highlight bash&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;$ hexo generate&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;p&gt;More info: &lt;a href=&quot;https://hexo.io/docs/generating.html&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Generating&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&quot;Deploy-to-remote-sites&quot;&gt;&lt;a href=&quot;#Deploy-to-remote-sites&quot; class=&quot;headerlink&quot; title=&quot;Deploy to remote sites&quot;&gt;&lt;/a&gt;Deploy to remote sites&lt;/h3&gt;&lt;figure class=&quot;highlight bash&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;$ hexo deploy&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;p&gt;More info: &lt;a href=&quot;https://hexo.io/docs/deployment.html&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Deployment&lt;/a&gt;&lt;/p&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt; for more info. If you get any problems when using Hexo, you can find the answer in &lt;a href=&quot;https://hexo.io/docs/troubleshooting.html&quot;&gt;troubleshooting&lt;/a&gt; or you can ask me on &lt;a href=&quot;https://github.com/hexojs/hexo/issues&quot;&gt;GitHub&lt;/a&gt;.&lt;/p&gt;
+    
+    </summary>
+    
+    
+  </entry>
+  
+</feed>
