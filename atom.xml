@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2016-04-16T12:08:35.000Z</updated>
+  <updated>2016-04-23T04:37:02.000Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -16,17 +16,40 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>哪有没时间这回事</title>
-    <link href="http://yoursite.com/2016/04/16/%E5%93%AA%E6%9C%89%E6%B2%A1%E6%97%B6%E9%97%B4%E8%BF%99%E5%9B%9E%E4%BA%8B/"/>
-    <id>http://yoursite.com/2016/04/16/哪有没时间这回事/</id>
-    <published>2016-04-16T11:24:10.000Z</published>
-    <updated>2016-04-16T12:08:35.000Z</updated>
+    <title>哪有没时间这回事（二）</title>
+    <link href="http://yoursite.com/2016/04/23/%E5%93%AA%E6%9C%89%E6%B2%A1%E6%97%B6%E9%97%B4%E8%BF%99%E5%9B%9E%E4%BA%8B2/"/>
+    <id>http://yoursite.com/2016/04/23/哪有没时间这回事2/</id>
+    <published>2016-04-23T04:34:04.000Z</published>
+    <updated>2016-04-23T04:37:02.000Z</updated>
+    
+    <content type="html">&lt;h2 id=&quot;Level-2-不用专注也能完成80-任务的进阶技能&quot;&gt;&lt;a href=&quot;#Level-2-不用专注也能完成80-任务的进阶技能&quot; class=&quot;headerlink&quot; title=&quot;Level 2: 不用专注也能完成80%任务的进阶技能&quot;&gt;&lt;/a&gt;Level 2: 不用专注也能完成80%任务的进阶技能&lt;/h2&gt;&lt;h3 id=&quot;1&quot;&gt;&lt;a href=&quot;#1&quot; class=&quot;headerlink&quot; title=&quot;1.&quot;&gt;&lt;/a&gt;1.&lt;/h3&gt;&lt;h2 id=&quot;结束语：&quot;&gt;&lt;a href=&quot;#结束语：&quot; class=&quot;headerlink&quot; title=&quot;结束语：&quot;&gt;&lt;/a&gt;结束语：&lt;/h2&gt;&lt;p&gt;每个人性情不同，对时间管理的理解千差万别，Neal认为时间管理不是一种严格的规章，更像是指导原则，因此我们不必严格执行，而是将原则揉入日常生活，化学反应出更好的自己。&lt;/p&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;h2 id=&quot;Level-2-不用专注也能完成80-任务的进阶技能&quot;&gt;&lt;a href=&quot;#Level-2-不用专注也能完成80-任务的进阶技能&quot; class=&quot;headerlink&quot; title=&quot;Level 2: 不用专注也能完成80%任务的进阶技能&quot;&gt;&lt;/a&gt;Level 2
+    
+    </summary>
+    
+      <category term="Grow" scheme="http://yoursite.com/categories/Grow/"/>
+    
+    
+      <category term="GTD" scheme="http://yoursite.com/tags/GTD/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>哪有没时间这回事（一）</title>
+    <link href="http://yoursite.com/2016/04/23/%E5%93%AA%E6%9C%89%E6%B2%A1%E6%97%B6%E9%97%B4%E8%BF%99%E5%9B%9E%E4%BA%8B1/"/>
+    <id>http://yoursite.com/2016/04/23/哪有没时间这回事1/</id>
+    <published>2016-04-23T04:23:33.000Z</published>
+    <updated>2016-04-23T04:36:52.000Z</updated>
     
     <content type="html">&lt;p&gt;一直对时间管理有所关注，利用上下班地铁上时间读完了《哪有没时间这回事》，现在来818这本书——碎片化时代的正确打开方式。&lt;/p&gt;
 &lt;h5 id=&quot;导语：碎片化时代的碎碎念&quot;&gt;&lt;a href=&quot;#导语：碎片化时代的碎碎念&quot; class=&quot;headerlink&quot; title=&quot;导语：碎片化时代的碎碎念&quot;&gt;&lt;/a&gt;导语：碎片化时代的碎碎念&lt;/h5&gt;&lt;blockquote&gt;
 &lt;p&gt;很多事情不得不做；&lt;br&gt;很多事情想做但从未去做；&lt;br&gt;很多事情做了但坚持不下来；&lt;br&gt;总感觉自己很忙碌，但想不起来到底干了什么；&lt;br&gt;大量的时间被他人占用，剩下的时间被自己浪费；&lt;br&gt;早上起不来，晚上不想睡，缺乏锻炼，没空学习，做事效率低，生活不规律；&lt;br&gt;一堆臭毛病想改改不掉，别人身上的好习惯想学做不到；  &lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;a id=&quot;more&quot;&gt;&lt;/a&gt; 
+&lt;a id=&quot;more&quot;&gt;&lt;/a&gt;
 &lt;pre&gt;&lt;code&gt;正确的打开方式：“三阶技能”，“三个清单”。
 &lt;/code&gt;&lt;/pre&gt;&lt;ul&gt;
 &lt;li&gt;初级技能：需要变换全新视角，重新感受整理被揉碎的时间，尽可能把被碎片占据的－ 时间找回来。 （时间段清单） &lt;/li&gt;
@@ -37,7 +60,45 @@
 “让1天变28个小时”            “让1天变28个小时的初级技能”
 “不用专注也能完成80%任务”     “不用专注也能完成80%任务的进阶技能”
 “让高效毫不费力”             “让高效毫不费力的高级技能”
-&lt;/code&gt;&lt;/pre&gt;</content>
+&lt;/code&gt;&lt;/pre&gt;&lt;h2 id=&quot;Level-1-让1天变28个小时的初级技能&quot;&gt;&lt;a href=&quot;#Level-1-让1天变28个小时的初级技能&quot; class=&quot;headerlink&quot; title=&quot;Level 1: 让1天变28个小时的初级技能&quot;&gt;&lt;/a&gt;Level 1: 让1天变28个小时的初级技能&lt;/h2&gt;&lt;h3 id=&quot;1-从安排日程开始，也许就错了&quot;&gt;&lt;a href=&quot;#1-从安排日程开始，也许就错了&quot; class=&quot;headerlink&quot; title=&quot;1. 从安排日程开始，也许就错了&quot;&gt;&lt;/a&gt;1. 从安排日程开始，也许就错了&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;感受碎片，整理心情。&lt;/li&gt;
+&lt;li&gt;儿时被动按照课表规划，现在独立自主，处理事情与日俱增，时间越来越碎。&lt;/li&gt;
+&lt;li&gt;碎了就碎了，坦然接受。&lt;/li&gt;
+&lt;li&gt;放空大脑，专注当下事务，其余的事情都丢进清单。&lt;/li&gt;
+&lt;li&gt;列出日常清单，避免焦虑，解放大脑。&lt;/li&gt;
+&lt;li&gt;有利于统筹日常事务。&lt;/li&gt;
+&lt;li&gt;列出日常事务清单，不加时间标签，只是单纯的事件罗列。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&quot;2-日程表不靠谱，换时间段试试&quot;&gt;&lt;a href=&quot;#2-日程表不靠谱，换时间段试试&quot; class=&quot;headerlink&quot; title=&quot;2. 日程表不靠谱，换时间段试试&quot;&gt;&lt;/a&gt;2. 日程表不靠谱，换时间段试试&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;“严格日程表”，容易被意外事件轻易摧毁。&lt;/li&gt;
+&lt;li&gt;日程表经常从早起开始就失败了，然后整天将处在挣扎沮丧的状态。&lt;/li&gt;
+&lt;li&gt;时间表只会逼死你&lt;/li&gt;
+&lt;li&gt;审视时间、地点、物品、环境、他人和自己的身心状态六大要素。&lt;/li&gt;
+&lt;li&gt;按照上一条，将一天划分成若干时间段。&lt;/li&gt;
+&lt;li&gt;可以帮你理解，对自己不切实际的严苛要求是导致事情失败的原因。&lt;/li&gt;
+&lt;li&gt;根据六大要素安排日常事务。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&quot;3-不断改进的是规划，墙上一挂是鬼话&quot;&gt;&lt;a href=&quot;#3-不断改进的是规划，墙上一挂是鬼话&quot; class=&quot;headerlink&quot; title=&quot;3. 不断改进的是规划，墙上一挂是鬼话&quot;&gt;&lt;/a&gt;3. 不断改进的是规划，墙上一挂是鬼话&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;对的时间做对的事&lt;/li&gt;
+&lt;li&gt;不断优化每个时间段&lt;/li&gt;
+&lt;li&gt;用清单整理碎片，事情再多，都是纸老虎，列出来就可以指点江山&lt;/li&gt;
+&lt;li&gt;划分时间段，帮你划出界限。&lt;/li&gt;
+&lt;li&gt;碎片化专注：每个时间段内，切换到沉浸模式。&lt;/li&gt;
+&lt;li&gt;时间段不要安排太满，以便划分出清晰界限。&lt;/li&gt;
+&lt;li&gt;类似开始工作前我们会泡一杯茶，时间段间状态切换可以用一些仪式性动作来完成。&lt;/li&gt;
+&lt;li&gt;构建自己的时间段清单，安排每天事宜。（1⃣明确要做的事2⃣把他们分别放入规划好的时间段3⃣列出每个时间段的动作清单。）&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&quot;4-调整早晚时间，不再瞎忙活&quot;&gt;&lt;a href=&quot;#4-调整早晚时间，不再瞎忙活&quot; class=&quot;headerlink&quot; title=&quot;4. 调整早晚时间，不再瞎忙活&quot;&gt;&lt;/a&gt;4. 调整早晚时间，不再瞎忙活&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;早起：根生蒂固的思维陷阱：“困”是个问题，早起是造成困的原因。&lt;/li&gt;
+&lt;li&gt;早起：困不是问题，困的时候挺着不休息才是问题。&lt;/li&gt;
+&lt;li&gt;早起：早起倒逼早睡。起的爽快，睡的心安理得。&lt;/li&gt;
+&lt;li&gt;早起：正确的时间做正确的事情，错开每天杂事高峰，获得更多时间，更好质量，聚焦时间段安排，优化切实可行方案。&lt;/li&gt;
+&lt;li&gt;晚间：到点就走，保护自己的晚间。很多时候被加班，那就先建立早起加班的自信。&lt;/li&gt;
+&lt;li&gt;晚间：加班要早上加，最重要的是不精神加班。&lt;/li&gt;
+&lt;li&gt;晚间：人的差别在于业余时间，而一个人的命运决定于晚上8点到10点。&lt;/li&gt;
+&lt;li&gt;晚间：停下白天的快节奏，陪伴家人，准备第二天最重要的事，有勇气去早睡。&lt;/li&gt;
+&lt;/ul&gt;
+</content>
     
     <summary type="html">
     
