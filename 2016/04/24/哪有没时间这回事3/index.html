@@ -127,6 +127,22 @@
   };
 </script>
 
+<script src="/js/src/pace.min.js"></script>
+<link href="/css/pace-theme-flash.css" rel="stylesheet">
+<style>
+    .pace .pace-progress {
+        background: #e74c3c; /*进度条颜色*/
+        height: 3px;
+    }
+    .pace .pace-progress-inner {
+         box-shadow: 0 0 10px #f1c40f, 0 0 5px     #f1c40f; /*阴影颜色*/
+    }
+    .pace .pace-activity {
+        border-top-color: #1E92FB;    /*上边框颜色*/
+        border-left-color: #1E92FB;    /*左边框颜色*/
+    }
+  </style>
+
   <title> 哪有没时间这回事（三） | Neal's Notes </title>
 </head>
 
@@ -328,6 +344,8 @@
 
           
         
+		  <span class="post-count">&nbsp; | &nbsp;共1,868字</span>
+
           
               &nbsp; | &nbsp;
                <span class="post-meta-item-icon">
@@ -499,6 +517,25 @@
 </div>
       
     </div>
+  </div>
+
+<div class="page-footer">
+    
+      <div id="eof" class="print-invisible">
+        <hr class="eof">
+      </div>
+      <div class="copyright" style="clear:both;">
+      <p><strong>版权声明</strong></p>
+      <p><img src="/uploads/cc.png" alt=""></p>
+      <p><a href="http://starkx.github.io/">Neal's Notes</a> by <a href="http://starkx.github.io/">Neal</a> is licensed under a <a href="http://creativecommons.org/licenses/by-nc-nd/4.0/" target="_blank" rel="external">Creative Commons BY-NC-ND 4.0 International License</a>.<br>由<a href="http://starkx.github.io/">广寒紫逸</a>创作并维护的<a href="http://starkx.github.io/">Neal's Notes</a>博客采用<a href="http://creativecommons.org/licenses/by-nc-nd/4.0/" target="_blank" rel="external">创作共用保留署名-非商业-禁止演绎4.0国际许可证</a>。</p>
+<p>本文首发于<a href="http://starkx.github.io/">Neal's Notes | 广寒紫逸</a>博客（ <a href="http://starkx.github.io/">http://starkx.github.io/</a> ），版权所有，侵权必究。</p>
+         <p><span>原始链接: </span><a href="/2016/04/24/哪有没时间这回事3/" title="哪有没时间这回事（三）">http://yoursite.com/2016/04/24/哪有没时间这回事3/</a></p>
+         <p><span>转载请保留以上信息。</span></p>
+      </div>
+    
+
+    
+
   </div>
 
 
@@ -701,6 +738,9 @@
     <i class="fa fa-heart-o"></i>
   </span>
   <span class="author" itemprop="copyrightHolder">广寒紫逸
+  &nbsp;&nbsp;<i class="fa fa-pencil-square-o"></i>&nbsp;
+  </span>
+  <span class="post-count">本站总字数5.9k
   &nbsp;&nbsp;<i class="fa fa-hand-pointer-o"></i>&nbsp;
   </span>
   <span id="busuanzi_container_site_uv">
@@ -838,6 +878,26 @@
   
   
   
+  <script type="text/x-mathjax-config">
+    MathJax.Hub.Config({
+      tex2jax: {
+        inlineMath: [ ['$','$'], ["\\(","\\)"]  ],
+        processEscapes: true,
+        skipTags: ['script', 'noscript', 'style', 'textarea', 'pre', 'code']
+      }
+    });
+  </script>
+
+  <script type="text/x-mathjax-config">
+    MathJax.Hub.Queue(function() {
+      var all = MathJax.Hub.getAllJax(), i;
+      for (i=0; i < all.length; i += 1) {
+        all[i].SourceElement().parentNode.className += ' has-jax';
+      }
+    });
+  </script>
+  <script type="text/javascript" src="//cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+
 
   <!-- custom analytics part create by xiamo -->
 <script src="https://cdn1.lncld.net/static/js/av-core-mini-0.6.1.js"></script>
