@@ -4,9 +4,9 @@
   <subtitle>遇见更好的自己！</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
+  <link href="http://starkx.github.io/"/>
   <updated>2016-04-24T15:56:28.000Z</updated>
-  <id>http://yoursite.com/</id>
+  <id>http://starkx.github.io/</id>
   
   <author>
     <name>广寒紫逸</name>
@@ -17,8 +17,8 @@
   
   <entry>
     <title>哪有没时间这回事（三）</title>
-    <link href="http://yoursite.com/2016/04/24/%E5%93%AA%E6%9C%89%E6%B2%A1%E6%97%B6%E9%97%B4%E8%BF%99%E5%9B%9E%E4%BA%8B3/"/>
-    <id>http://yoursite.com/2016/04/24/哪有没时间这回事3/</id>
+    <link href="http://starkx.github.io/2016/04/24/%E5%93%AA%E6%9C%89%E6%B2%A1%E6%97%B6%E9%97%B4%E8%BF%99%E5%9B%9E%E4%BA%8B3/"/>
+    <id>http://starkx.github.io/2016/04/24/哪有没时间这回事3/</id>
     <published>2016-04-24T09:48:35.000Z</published>
     <updated>2016-04-24T15:56:28.000Z</updated>
     
@@ -98,17 +98,17 @@
     
     </summary>
     
-      <category term="Grow" scheme="http://yoursite.com/categories/Grow/"/>
+      <category term="Grow" scheme="http://starkx.github.io/categories/Grow/"/>
     
     
-      <category term="GTD" scheme="http://yoursite.com/tags/GTD/"/>
+      <category term="GTD" scheme="http://starkx.github.io/tags/GTD/"/>
     
   </entry>
   
   <entry>
     <title>哪有没时间这回事（二）</title>
-    <link href="http://yoursite.com/2016/04/23/%E5%93%AA%E6%9C%89%E6%B2%A1%E6%97%B6%E9%97%B4%E8%BF%99%E5%9B%9E%E4%BA%8B2/"/>
-    <id>http://yoursite.com/2016/04/23/哪有没时间这回事2/</id>
+    <link href="http://starkx.github.io/2016/04/23/%E5%93%AA%E6%9C%89%E6%B2%A1%E6%97%B6%E9%97%B4%E8%BF%99%E5%9B%9E%E4%BA%8B2/"/>
+    <id>http://starkx.github.io/2016/04/23/哪有没时间这回事2/</id>
     <published>2016-04-23T04:34:04.000Z</published>
     <updated>2016-04-24T10:12:04.000Z</updated>
     
@@ -194,17 +194,17 @@
     
     </summary>
     
-      <category term="Grow" scheme="http://yoursite.com/categories/Grow/"/>
+      <category term="Grow" scheme="http://starkx.github.io/categories/Grow/"/>
     
     
-      <category term="GTD" scheme="http://yoursite.com/tags/GTD/"/>
+      <category term="GTD" scheme="http://starkx.github.io/tags/GTD/"/>
     
   </entry>
   
   <entry>
     <title>哪有没时间这回事（一）</title>
-    <link href="http://yoursite.com/2016/04/23/%E5%93%AA%E6%9C%89%E6%B2%A1%E6%97%B6%E9%97%B4%E8%BF%99%E5%9B%9E%E4%BA%8B1/"/>
-    <id>http://yoursite.com/2016/04/23/哪有没时间这回事1/</id>
+    <link href="http://starkx.github.io/2016/04/23/%E5%93%AA%E6%9C%89%E6%B2%A1%E6%97%B6%E9%97%B4%E8%BF%99%E5%9B%9E%E4%BA%8B1/"/>
+    <id>http://starkx.github.io/2016/04/23/哪有没时间这回事1/</id>
     <published>2016-04-23T04:23:33.000Z</published>
     <updated>2016-04-24T15:55:41.000Z</updated>
     
@@ -283,17 +283,17 @@
     
     </summary>
     
-      <category term="Grow" scheme="http://yoursite.com/categories/Grow/"/>
+      <category term="Grow" scheme="http://starkx.github.io/categories/Grow/"/>
     
     
-      <category term="GTD" scheme="http://yoursite.com/tags/GTD/"/>
+      <category term="GTD" scheme="http://starkx.github.io/tags/GTD/"/>
     
   </entry>
   
   <entry>
     <title>Hello World</title>
-    <link href="http://yoursite.com/2016/04/13/hello-world/"/>
-    <id>http://yoursite.com/2016/04/13/hello-world/</id>
+    <link href="http://starkx.github.io/2016/04/13/hello-world/"/>
+    <id>http://starkx.github.io/2016/04/13/hello-world/</id>
     <published>2016-04-13T15:49:42.000Z</published>
     <updated>2016-04-16T12:09:45.000Z</updated>
     
